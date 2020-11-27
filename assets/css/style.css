@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
 /* Estilos da página index.html*/
     .center {
         text-align: center;
@@ -47,10 +51,25 @@ color: indianred;
     margin-bottom: 50px;
 }
 
+.font {
+    font-family: 'Prata', serif;
+}
 
+.font2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.font3{
+    font-family: 'Raleway', sans-serif;
+}
+
+.button {
+    
+}
 
 /*Estilos da página contato.html*/
 
 .ml-50{
     margin-left: 50px;
 }
+
